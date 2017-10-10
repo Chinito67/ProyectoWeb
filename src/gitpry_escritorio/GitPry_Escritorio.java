@@ -17,7 +17,8 @@ public class GitPry_Escritorio {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        System.out.println(" Practica Remota de GIT");
+        System.out.println(" Martin Saavedra Julca");
     }
     
 }
